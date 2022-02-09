@@ -25,7 +25,7 @@ Print the number of words.
 
 ## PROGRAM:
 ```
-with open("wordcount1.txt","r")as fp:
+with open("File.txt","r")as fp:
     count=0
     for data in fp:
         x=data.split()
