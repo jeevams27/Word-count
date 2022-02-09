@@ -38,6 +38,8 @@ with open("wordcount1.txt","r")as fp:
 ### OUTPUT:
 
 ![](./text.jpg)
+
+
 ![](./output.jpg)
 
 ## RESULT:
